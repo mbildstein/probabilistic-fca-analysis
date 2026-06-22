@@ -2,15 +2,15 @@
 
 # Project scaffolding
 - [x] Write requirements.txt
-- [ ] Initialize git
-- [ ] Connect to Github remote repo
+- [x] Initialize git
+- [x] Connect to Github remote repo
 
 # Database connection
-- [ ] Create DB connection via pandas
-- [ ] Load DB tables into pandas dataframes
+- [x] Create DB connection via pandas
+- [x] Load DB tables into pandas dataframes
 
 # Data analysis
-- [ ] Calculate FCI per building. use only DM/CRV for now.
+- [x] Calculate FCI per building. use only DM/CRV for now.
 - [ ] Develop probabilistic capital renewal model
   - [ ] Write Monte Carlo simulation using YTO and estimated cost ±20%.
 
